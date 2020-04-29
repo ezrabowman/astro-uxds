@@ -69,3 +69,10 @@
 	to = "/ttc-service-ux-design/ttc-investigate"
 	status = 300
 	force = true
+
+[[redirects]]
+	from = "/design-guidelines/compliance"
+	to = "/compliance"
+	status = 300
+	force = true
+	
