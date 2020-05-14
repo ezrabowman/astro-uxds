@@ -30,6 +30,6 @@ Drop Down menus were renamed Select Menus in Astro 4.5 to align more closely wit
 
 :::two-col
 
-![Don’t: Create a Drop Down list with too many options. The user needs to be able to scan and navigate the list easily](/img/components/dropdown-dont-1.png "Don’t: Create a Drop Down list with too many options. The user needs to be able to scan and navigate the list easily")
+![Don’t: Create a Select Menus with too many options. The user needs to be able to scan and navigate the list easily](/img/components/select-dont-1.png "Don’t: Create a Select Menu with too many options. The user needs to be able to scan and navigate the list easily")
 
 :::
