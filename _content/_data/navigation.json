@@ -127,10 +127,6 @@
 				"url": "/components/dialog-box"
 			},
 			{
-				"label": "Drop Down",
-				"url": "/components/drop-down"
-			},
-			{
 				"label": "Global Status Bar",
 				"url": "/components/global-status-bar"
 			},
@@ -173,6 +169,10 @@
 			{
 				"label": "Search",
 				"url": "/components/search"
+			},
+			{
+				"label": "Select Menu",
+				"url": "/components/select"
 			},
 			{
 				"label": "Segmented Button",
